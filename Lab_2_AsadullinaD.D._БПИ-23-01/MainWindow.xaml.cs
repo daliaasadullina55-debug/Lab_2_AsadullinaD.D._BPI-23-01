@@ -43,7 +43,7 @@ namespace Lab_2_AsadullinaD.D._БПИ_23_01
         public MainWindow()
         {
             InitializeComponent();
-            InitializeListBoxes();
+           InitializeListBoxes();
             DataContext = this;
         }
 

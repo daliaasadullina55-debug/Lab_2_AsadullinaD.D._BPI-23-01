@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_2_asadullinad.d._bpi-23-01\\lab_2_asadullinad.d._\u0431\u043F\u0438-23-01\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_2_asadullinad.d._bpi-23-01\\lab_2_asadullinad.d._\u0431\u043F\u0438-23-01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CFDD4AC7-2E6B-4BC1-9A7F-7A02705CDD10}|Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\resource\\task4.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
@@ -58,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Task4.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task4.cs",
               "RelativeDocumentMoniker": "Task4.cs",
@@ -74,91 +70,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Task3.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task3.cs",
               "RelativeDocumentMoniker": "Task3.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task3.cs",
               "RelativeToolTip": "Task3.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvyMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T15:35:36.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Calculation.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Calculation.cs",
               "RelativeDocumentMoniker": "Calculation.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Calculation.cs",
               "RelativeToolTip": "Calculation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T15:33:28.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAmwJ4AAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEQAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T07:25:03.601Z"
+              "WhenOpened": "2025-10-06T07:25:03.601Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-06T07:25:04.503Z"
+              "WhenOpened": "2025-10-06T07:25:04.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task1.cs",
-              "RelativeDocumentMoniker": "Task1.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task1.cs",
-              "RelativeToolTip": "Task1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T15:34:32.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task2.cs",
               "RelativeDocumentMoniker": "Task2.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task2.cs",
               "RelativeToolTip": "Task2.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvyAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T15:34:53.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Task5.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task5.cs",
               "RelativeDocumentMoniker": "Task5.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Task5.cs",
               "RelativeToolTip": "Task5.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswDkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T15:36:19.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T15:36:19.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Task1.png",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Resource\\Task1.png",
               "RelativeDocumentMoniker": "Resource\\Task1.png",
@@ -169,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Task2.png",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Resource\\Task2.png",
               "RelativeDocumentMoniker": "Resource\\Task2.png",
@@ -180,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Task3.png",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Resource\\Task3.png",
               "RelativeDocumentMoniker": "Resource\\Task3.png",
@@ -191,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Task4.png",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_2_AsadullinaD.D._BPI-23-01\\Lab_2_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Resource\\Task4.png",
               "RelativeDocumentMoniker": "Resource\\Task4.png",
